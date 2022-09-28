@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\repos\\Training\\mocking-moq-xunit\\03\\demos\\after\\04ArgumentMatching\\CreditCardApplications\\CreditCardApplications.csproj": {}
+  },
+  "projects": {
+    "C:\\repos\\Training\\mocking-moq-xunit\\03\\demos\\after\\04ArgumentMatching\\CreditCardApplications\\CreditCardApplications.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\repos\\Training\\mocking-moq-xunit\\03\\demos\\after\\04ArgumentMatching\\CreditCardApplications\\CreditCardApplications.csproj",
+        "projectName": "CreditCardApplications",
+        "projectPath": "C:\\repos\\Training\\mocking-moq-xunit\\03\\demos\\after\\04ArgumentMatching\\CreditCardApplications\\CreditCardApplications.csproj",
+        "packagesPath": "C:\\Users\\YelenaGouralnik\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\Training\\mocking-moq-xunit\\03\\demos\\after\\04ArgumentMatching\\CreditCardApplications\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\YelenaGouralnik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "C:\\devtools\\nugetpackages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/A9j5Sb4b5KR7JrLL9Hul1mOM6ljzIiC9igfjtAFYQnzZoFeljW/api": {},
+          "https://pkgs.dev.azure.com/IntegratedTM/_packaging/ITM.Shared/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/IntegratedTM/_packaging/IntegratedTM/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

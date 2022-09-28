@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "16t8j0cqgDCssS0GS3btPEo6Rmy2IZoZHQESuO9hCWEo+j1OArKhOIcIAogmZ1T1AeXE9DpkVORAb6sGgj7zkw==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\Training\\mocking-moq-xunit\\02\\demos\\before\\03NewDependency\\CreditCardApplications\\CreditCardApplications.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YelenaGouralnik\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\YelenaGouralnik\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\YelenaGouralnik\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
